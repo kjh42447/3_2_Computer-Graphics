@@ -1,0 +1,85 @@
+﻿빌드 시작: 2021-10-21 오전 9:20:14
+     1>2 노드의 "E:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\midterm.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(35): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(37): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(65): warning C4244: '초기화 중' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(69): warning C4244: '초기화 중' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(71): warning C4244: '초기화 중' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(72): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(73): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(74): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(109): warning C4244: '인수' : 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(109): warning C4244: '인수' : 'GLfloat'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(134): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(134): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(135): warning C4244: '인수' : 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(139): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(148): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(153): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(160): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(167): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(167): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(171): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(176): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(178): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(180): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(189): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(199): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(201): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(202): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(204): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(205): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(207): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(208): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(210): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(211): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(218): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(220): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(224): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(225): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(227): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(228): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(230): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(231): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(233): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(234): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(243): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(245): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(248): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(250): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(259): warning C4244: '=' : 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(267): warning C4244: '=' : 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(335): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(378): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(401): warning C4305: '-=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(402): warning C4305: '+=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(403): warning C4305: '-=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(409): warning C4305: '-=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(411): warning C4305: '+=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(418): warning C4305: '+=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(419): warning C4305: '-=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(426): warning C4305: '+=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(428): warning C4305: '-=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(430): warning C4305: '+=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(438): warning C4305: '-=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(440): warning C4305: '+=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(442): warning C4305: '-=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(449): warning C4305: '=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(450): warning C4244: '=' : 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(474): warning C4305: '*=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(476): warning C4305: '*=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(479): warning C4305: '+=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(480): warning C4305: '+=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(481): warning C4305: '+=' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\main.cpp(523): warning C4305: '인수' : 'double'에서 'GLclampf'(으)로 잘립니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\Debug\midterm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\Debug\midterm.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\Debug\midterm.lib" /MACHINE:X86 Debug\main.obj
+         midterm.vcxproj -> E:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\Debug\midterm.exe
+     1>"E:\공부\3학년\2학기\컴퓨터그래픽스\opengl\midterm\midterm\midterm.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.13

@@ -1,0 +1,27 @@
+﻿  main.cpp
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\model.hpp(47): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\model.hpp(90): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\model.hpp(102): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\model.hpp(103): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\model.hpp(104): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\model.hpp(129): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(131): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(171): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(245): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(308): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(310): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(337): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(337): warning C4244: '인수': 'GLfloat'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(367): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(391): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(409): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(443): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(445): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(600): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(601): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realfinal\realfinal\main.cpp(615): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  realFinal.vcxproj -> E:\공부\3학년\2학기\컴퓨터그래픽스\opengl\realFinal\x64\Debug\realFinal.exe
